@@ -1,0 +1,15 @@
+1;John Smith;Scoala Gimnaziala “Horea”
+2;Emily Brown;Scoala Gimnaziala "Octavian Goga"
+3;Michael Johnson;Liceul Teoretic "Lucian Blaga"
+4;Jessica Davis;Scoala Gimnaziala "Ioan Bob"
+5;Matthew Garcia;Scoala Gimnaziala "Ion Creanga"
+6;Amanda Rodriguez;Colegiul National Pedagogic "Gheorghe Lazar"
+7;Jacob Wilson;Scoala Gimnaziala Internationala SPECTRUM
+8;Sophia Anderson;Colegiul National „Emil Racovita”
+9;Ethan Thompson;Colegiul National "George Cosbuc"
+10;Isabella Gonzalez;Scoala Gimnaziala "Ion Agarbiceanu"
+11;William Martinez;Liceul Teoretic "Avram Iancu"
+12;Ashley Anderson;Scoala Gimnaziala "Constantin Brancusi"
+13;Michael Thomas;Liceul Teoretic "Onisifor Ghibu"
+14;Emily Martinez;Liceul cu Program Sportiv Cluj-Napoca
+15;Jacob Rodriguez;Liceul Teoretic "Nicolae Balcescu"

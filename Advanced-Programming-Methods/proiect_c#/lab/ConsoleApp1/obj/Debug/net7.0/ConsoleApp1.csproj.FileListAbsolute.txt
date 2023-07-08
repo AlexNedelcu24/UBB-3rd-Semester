@@ -1,0 +1,45 @@
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/andrei/RiderProjects/Seminar11/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nedel\Downloads\Seminar12_CSharp_Rapoarte\Seminar11CuFiltrari\Seminar11\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+G:\Anul 2\MAP\C#\lab14\lab14\lab14\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

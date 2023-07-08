@@ -1,0 +1,14 @@
+1;John Smith;Scoala Gimnaziala “Horea”;Houston Rockets
+2;Emily Brown;Scoala Gimnaziala "Octavian Goga";Los Angeles Lakers
+3;Michael Johnson;Liceul Teoretic "Lucian Blaga";LA Clippers
+4;Jessica Davis;Scoala Gimnaziala "Ioan Bob";Chicago Bulls
+5;Matthew Garcia;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+6;Amanda Rodriguez;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+7;Jacob Wilson;Scoala Gimnaziala Internationala SPECTRUM;Brooklyn Nets
+8;Sophia Anderson;Colegiul National „Emil Racovita”;Houston Rockets
+9;Ethan Thompson;Colegiul National "George Cosbuc";Houston Rockets
+10;Isabella Gonzalez;Scoala Gimnaziala "Ion Agarbiceanu";Toronto Raptors
+11;William Martinez;Liceul Teoretic "Avram Iancu";Charlotte Hornets
+12;Ashley Anderson;Scoala Gimnaziala "Constantin Brancusi";Phoenix Suns
+13;Michael Thomas;Liceul Teoretic "Onisifor Ghibu";Portland TrailBlazers
+14;Emily Martinez;Liceul cu Program Sportiv Cluj-Napoca;Golden State Warriors

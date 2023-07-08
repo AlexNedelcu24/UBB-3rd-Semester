@@ -1,0 +1,14 @@
+﻿1;1;1;10;Participant
+2;2;1;5;Rezerva
+3;3;2;15;Participant
+4;4;2;8;Rezerva
+5;5;3;20;Participant
+6;6;3;12;Rezerva
+7;7;4;18;Participant
+8;8;1;9;Rezerva
+9;9;1;22;Participant
+10;10;5;11;Rezerva
+11;11;6;25;Participant
+12;12;6;14;Rezerva
+13;13;7;30;Participant
+14;14;7;17;Rezerva
